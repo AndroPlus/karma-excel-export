@@ -24,7 +24,7 @@ npm install karma-karma-exce;-reporter --save-dev
 // karma.conf.js
 module.exports = function(config) {
   config.set({
-    reporters: ['progress', 'html'],
+    reporters: ['progress', 'excelExport'],
 
     // the default configuration
     excelExport: {

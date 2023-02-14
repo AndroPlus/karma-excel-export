@@ -1,0 +1,31 @@
+{
+  "name": "karma-excel-export",
+  "version": "1.0.0",
+  "description": "Reporter that is used to export jasmine to excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter",
+    "excel",
+    "export"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndroPlus/karma-excel-export.git"
+  },
+  "author": "Ramesh Dhananjeyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndroPlus/karma-excel-export/issues"
+  },
+  "homepage": "https://github.com/AndroPlus/karma-excel-export#readme",
+  "contributors": [
+    "Ramesh Dhananjeyan <contact.androplus@gmail.com>"
+  ]
+}

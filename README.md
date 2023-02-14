@@ -4,19 +4,14 @@ Reporter that export data from jasmine into excel
 
 ## Installation
 
-The easiest way is to keep `karma-excel-export-reporter` as a devDependency in your `package.json`.
+The easiest way is to keep `karma-excel-export` as a devDependency in your `package.json`.
 ```json
 {
   "devDependencies": {
     "karma": "~0.10",
-    "karma-excel-export-reporter": "~0.1"
+    "karma-excel-export": "~0.1"
   }
 }
-```
-
-You can simply do it by:
-```bash
-npm install karma-karma-exce;-reporter --save-dev
 ```
 
 ## Configuration

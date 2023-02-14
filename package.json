@@ -15,6 +15,9 @@
     "excel",
     "export"
   ],
+  "devDependencies": {
+    "exceljs": "4.3.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AndroPlus/karma-excel-export.git"

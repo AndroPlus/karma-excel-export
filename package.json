@@ -15,7 +15,7 @@
     "excel",
     "export"
   ],
-  "devDependencies": {
+  "dependencies": {
     "exceljs": "4.3.0"
   },
   "repository": {
